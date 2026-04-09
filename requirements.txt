@@ -1,0 +1,2 @@
+# Tkinter ist in Python bereits enthalten - keine Abhängigkeiten nötig!
+# Nur SQLite (auch in Python enthalten)
